@@ -1,0 +1,7 @@
+{
+  "name": "pokeAppIonic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
